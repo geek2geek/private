@@ -1,16 +1,3 @@
-# 微信小程序商城
-微信小程序商城，微信小程序微店，长期维护版本，欢迎大家踊跃提交贡献代码；
-
-使用说明和常见问题，可参阅下面的说明，如还有疑问，可访问工厂官网 [https://www.it120.cc/](https://www.it120.cc/) 寻求帮助！
-
-## 扫码体验
-
-<p>
-<img src="https://cdn.it120.cc/apifactory/2017/09/15/487409738ebb80c44eda01c46d59b20c.jpg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2018/04/04/570e9a77dbc9cacda176e98a4f2778c5.jpg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2018/04/01/b7b8f5a0fcfc72454ade8510ab929717.jpg" width="200px">
-<img src="https://cdn.it120.cc/apifactory/2018/04/19/fbf88e05686b6d9c7c5d5476c7b798d1.jpg" width="200px">
-</p>
 
 ## 接口 & 后台声明
 本项目为小程序商城纯前端项目，由于人力和精力所限，本项目并未有开发配套的后台系统，而是直接使用了 [api工厂](https://www.it120.cc/) 提供的免费接口和云后台，可以完全满足本项目的所有功能需求。
